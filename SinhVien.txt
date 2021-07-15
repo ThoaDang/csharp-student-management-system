@@ -1,0 +1,2 @@
+Tuấn Anh,IT,10,Nam,Lớp trưởng,Xuất sắc
+Thoa,Không biết,8,Nữ,Không chức vụ,Giỏi
